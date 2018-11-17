@@ -50,7 +50,7 @@
             "Key": "0bc73a15-e63d-45b3-951a-b42270fada58",
             "Value": {
                 "id": "900ffddb-d8ed-4d98-bfb1-ca717c3391b5",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_game\\room_game.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "18e4c591-4316-462e-9aea-2b03d2e76777",
+            "Value": {
+                "id": "08525def-e143-41a1-9778-954eb66e5ab3",
+                "resourcePath": "rooms\\room_start\\room_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2482d0d6-af42-4563-a9e5-52a0b3353af9",
             "Value": {
                 "id": "a4a2df46-5bba-4060-81ee-2df76b8bfa01",
                 "resourcePath": "tilesets\\Tile_Set\\Tile_Set.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "26d2697f-c01d-48d9-866a-955c37d8df23",
+            "Value": {
+                "id": "3711c159-77a6-4347-9346-0849da51f316",
+                "resourcePath": "objects\\OTitle\\OTitle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "86367e76-6790-4652-b62e-8fb6d2f37c13",
+            "Value": {
+                "id": "72c2258b-a1d8-40f9-b1db-e459fbb34a61",
+                "resourcePath": "sprites\\Title_Screen_Background\\Title_Screen_Background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95670255-f02b-43ba-96b2-5deaf4547a8e",
             "Value": {
                 "id": "be60dc88-3e84-4b4c-b945-036eb33942de",
@@ -167,6 +191,14 @@
             }
         },
         {
+            "Key": "d04e8bec-1237-4483-ad30-f8403ce19afa",
+            "Value": {
+                "id": "fd722018-0f49-40ea-bad2-fe8e81c7c897",
+                "resourcePath": "objects\\OEnemy_Spawn\\OEnemy_Spawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d17f01b3-8394-4752-a29f-50c5b40152eb",
             "Value": {
                 "id": "11b3f78c-4389-4dc5-abc7-79721577ecb1",
@@ -180,6 +212,14 @@
                 "id": "d8103882-a821-48a3-beb3-30251d6eaecb",
                 "resourcePath": "objects\\OScore\\OScore.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dffa3e67-52ee-435c-b90b-5e626ff09ced",
+            "Value": {
+                "id": "ca7a6292-cb25-4b98-9e11-4c1cf7f09261",
+                "resourcePath": "sounds\\Sound_Death\\Sound_Death.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -212,6 +252,14 @@
                 "id": "9688d5d7-9b9e-4b7a-872e-d2e1d7564516",
                 "resourcePath": "views\\f08f4eed-1597-4d30-8576-f57e775dd5e7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f1eeddb4-e0f1-4724-a2bf-61ac4fab1cda",
+            "Value": {
+                "id": "5f813859-5074-42ab-b733-044ae772daef",
+                "resourcePath": "sprites\\Title_Screen\\Title_Screen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
